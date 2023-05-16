@@ -1,1 +1,1 @@
-docker build . -t prova
+docker build . -t dockerprova
